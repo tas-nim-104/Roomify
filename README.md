@@ -3,11 +3,13 @@
 
 ---
 
+---
+
 ## 👥 Team Members
-| Name | Student ID | Role |
-| :--- | :--- | :--- |
-| **Sazia Farah Deba** | 20210104020 | Frontend Development |
-| **Tasnim Jarin** | 20210104104 | Backend + Lead |
+| Name | Student ID | Email | Role |
+| :--- | :--- | :--- | :--- |
+| **Sazia Farah Deba** | 20210104020 | [sazia.cse.20210104020@aust.edu](mailto:sazia.cse.20210104020@aust.edu) | Frontend Development |
+| **Tasnim Jarin** | 20210104104 | [tasnim.cse.20210104104@aust.edu](mailto:tasnim.cse.20210104104@aust.edu) | Backend + Lead |
 
 ---
 
