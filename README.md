@@ -48,4 +48,6 @@
 1. **PHP:** >= 8.2
 2. **Tools:** Composer, Node.js, npm
 3. **Setup:**
-   
+   * Clone repo: git clone <repo-url>
+   * Install: composer install & npm install
+   * Run: php artisan migrate then php artisan serve
