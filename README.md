@@ -81,7 +81,7 @@ To understand the project architecture and flow in detail, please refer to the d
 
 | Resource Name | Format | Link |
 | :--- | :--- | :--- |
-| *Project Proposal Report* | PDF | [📑 Open Report](./roomify.doc%201%20(1).pdf)
+| *Project Proposal Report* | PDF | [📑 Open Report](./roomify.doc%201%20(2).pdf)
 
 ---
 
