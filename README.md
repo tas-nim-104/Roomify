@@ -76,8 +76,12 @@
 ---
 
 ## 📄 Documentation & Resources
-* **Full Project Report:** [📑 Open Report](./roomify.doc)
-* **Presentation Slides:** [📊 View Presentation](./roomify_presentation.pdf)
+
+To understand the project architecture and flow in detail, please refer to the documents below:
+
+| Resource Name | Format | Link |
+| :--- | :--- | :--- |
+| *Project Proposal Report* | PDF | [📑 Open Report](./roomify.doc%201%20(1).pdf)
 
 ---
 
