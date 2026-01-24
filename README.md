@@ -18,7 +18,9 @@
 * Automate manual hotel management tasks.
 * Reduce booking errors and administrative workload.
 * Provide an easy-to-use room filtering and secure booking system.
-
+* To enable customers to browse, filter, and book rooms effortlessly
+* To empower administrators with full control over hotel resources
+* To deliver a scalable and maintainable web-based solution
 ---
 
 ## 🛠 Tech Stack
@@ -30,7 +32,13 @@
 
 ---
 
-## ✨ Features
+## ✨ System Features
+
+### Website Features
+* **Home Page:** Highlights hotel services, rooms, and amenities
+* **Gallery:** Visual display of rooms and hotel facilities
+* **Services Page:** Detailed overview of available hotel services
+* **About Us:** Information about the hotel’s mission and values
 
 ### 💻 Customer Portal
 * **Smart Filtering:** Find rooms based on dates and categories.
