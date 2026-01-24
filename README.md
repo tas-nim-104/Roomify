@@ -44,3 +44,46 @@
 
 ---
 
+## ✨ Core Features & Functionalities
+
+### 🛡️ Admin Dashboard (Management Powerhouse)
+* **Room Strategy:** Complete CRUD for Room Types (Suite, Deluxe, etc.) and individual Room Numbers.
+* **Staff Operations:** Comprehensive staff database with payroll and role tracking.
+* **Reservation Oversight:** Real-time monitoring of all guest bookings and payment statuses.
+* **Content Management:** Dynamic control over FAQs, Gallery, Services, and Testimonial approvals.
+
+### 💻 Customer Experience (Frontend)
+* **Smart Room Discovery:** Advanced filtering based on dates, capacity, and room categories.
+* **Seamless Booking:** Integrated availability engine to prevent double-booking.
+* **Secure Transactions:** Fully integrated **Stripe Payment Gateway** for hassle-free checkouts.
+* **User Feedback:** Interactive testimonial system for guests to share their stays.
+
+---
+
+## 📅 Development Milestones
+| Phase | Focus Area | Key Deliverables |
+| :--- | :--- | :--- |
+| **Phase 1** | **Foundations** | Architecture setup, Authentication, & Admin UI. |
+| **Phase 2** | **Core Logic** | Room management, Frontend listing, & Team showcase. |
+| **Phase 3** | **Integration** | Stripe API, Booking filters, & Final testing/QA. |
+
+---
+
+## 🌐 Deployment Environments
+* **Preview Environment:** Dedicated for internal testing and feature validation.
+* **Production Environment:** Live deployment optimized for end-users and real-time traffic.
+
+---
+
+## 📄 Documentation & Resources
+* **Full Project Report:** [📑 Open Report](./roomify.doc)
+* **Presentation Slides:** [📊 View Presentation](./roomify_presentation.pdf)
+
+---
+
+## 🏁 Conclusion
+**Roomify** marks a significant step towards modernizing hotel operations. By bridging the gap between a powerful backend and an intuitive frontend, it ensures operational efficiency and high customer satisfaction. The system is built to be scalable, ensuring it grows as the hotel business expands.
+
+---
+**Developed with ❤️ by Sazia & Tasnim**
+
