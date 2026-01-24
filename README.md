@@ -1,7 +1,5 @@
 # 🏨 Roomify - Hotel Booking & Management System
-**An intuitive hotel management portal for seamless booking, room management, and customer experience.**
-
----
+**An intuitive hotel management portal for seamless booking, room management, and customer experience.Roomify Hotel Management System is a modern, feature-rich web application developed to streamline hotel operations and enhance customer experience. The platform serves both hotel administrators and customers by offering efficient tools for room management, bookings, payments, staff handling, and content management through a centralized systemThe project focuses on usability, security, and scalability, ensuring that hotels can manage daily operations seamlessly while customers enjoy a smooth and intuitive booking journey.**
 
 ---
 
