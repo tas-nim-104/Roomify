@@ -48,17 +48,17 @@
 										<img src="{{asset('backend/assets/images/logo-icon.png')}}" width="60" alt="">
 									</div>
 									<div class="text-center mb-4">
-										<h5 class="">Easy Admin</h5>
+										<h5 class="">Welcome Back!</h5>
 										<p class="mb-0">Please log in to your account</p>
 									</div>
 									<div class="form-body">
         
-            <form class="row g-3" method="POST" action="{{ route('login') }}">
+<form class="row g-3" method="POST" action="{{ route('login') }}">
                 @csrf
 
             <div class="col-12">
                 <label for="inputEmailAddress" class="form-label">Email/Name/Phone</label>
-                <input type="text" name="login" class="form-control @error('login') is-invalid @enderror" id="login" placeholder="jhon@example.com">
+                <input type="text" name="login" class="form-control @error('login') is-invalid @enderror" id="login" placeholder="jarin@example.com">
                 @error('login')
                   <span class="text-danger"> {{ $message }} </span>  
                 @enderror
