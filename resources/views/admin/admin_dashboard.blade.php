@@ -29,6 +29,13 @@
 <link rel="stylesheet" href="{{asset('backend/assets/css/dark-theme.css')}}"/>
 <link rel="stylesheet" href="{{asset('backend/assets/css/semi-dark.css')}}"/>
 <link rel="stylesheet" href="{{asset('backend/assets/css/header-colors.css')}}"/>
+<!-- toastr CSS -->
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.css" >
+   <!-- toastr CSS -->
+
+	<!-- dataTables CSS -->
+   <link href="{{asset('backend/assets/plugins/datatable/css/dataTables.bootstrap5.min.css')}}" rel="stylesheet" />	
+   <!-- dataTables CSS --> 
 
 <title>Admin Dashboard</title>
 </head>
@@ -132,6 +139,26 @@
 <script>
     new PerfectScrollbar(".app-container")
 </script>
+
+<!--datatable JS-->
+<script src="{{asset('backend/assets/plugins/datatable/js/jquery.dataTables.min.js')}}"></script>
+	<script src="{{asset('backend/assets/plugins/datatable/js/dataTables.bootstrap5.min.js')}}"></script>
+	<script>
+		$(document).ready(function() {
+			$('#example').DataTable();
+		  } );
+	</script>
+<!--datatable JS-->
+
+<script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<script>
+   tinymce.init({
+     selector: 'textarea#myeditorinstance', // Replace this CSS selector to match the placeholder element for TinyMCE
+     plugins: 'powerpaste advcode table lists checklist',
+     toolbar: 'undo redo | blocks| bold italic | bullist numlist checklist | code | table'
+   });
+</script>
+
 </body>
 
 </html>
